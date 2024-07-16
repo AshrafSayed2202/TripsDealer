@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Cairo-Bold";
+    src: url("../fonts/Cairo-Bold.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Cairo-ExtraBold";
+    src: url("../fonts/Cairo-ExtraBold.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Cairo-ExtraLight";
+    src: url("../fonts/Cairo-ExtraLight.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Cairo-Light";
+    src: url("../fonts/Cairo-Light.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Cairo-Medium";
+    src: url("../fonts/Cairo-Medium.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Cairo-Regular";
+    src: url("../fonts/Cairo-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Cairo-SemiBold";
+    src: url("../fonts/Cairo-SemiBold.ttf") format("opentype");
+}
+@font-face {
+    font-family: "Just-Me";
+    src: url("../fonts/JustMeAgainDownHere-Regular.ttf") format("opentype");
+}

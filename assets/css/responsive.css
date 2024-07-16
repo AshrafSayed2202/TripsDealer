@@ -1,0 +1,465 @@
+@media all and (min-width: 1024px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}
+
+@media all and (min-width: 991px) and (max-width: 1200px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.2rem;
+        padding-left: 0.2rem;
+        font-size: 13px;
+    }
+}
+@media (width < 992px) {
+    .nav-item::after,
+    .nav-item::before {
+        display: none;
+    }
+    .navbar-nav {
+        width: 100%;
+        align-items: center;
+    }
+    .navbar-nav li {
+        padding: 5px 0;
+    }
+}
+
+@media all and (min-width: 991px) and (max-width: 1100px) {
+}
+
+@media all and (min-width: 1200px) and (max-width: 1500px) {
+    .container {
+        max-width: 1250px;
+    }
+}
+
+@media all and (min-width: 1366px) and (max-width: 1517px) {
+    .container {
+        max-width: 1250px;
+    }
+}
+
+@media all and (min-width: 1518px) and (max-width: 2049px) {
+    .container {
+        max-width: 1620px;
+    }
+}
+
+@media all and (min-width: 1518px) and (max-width: 1707px) {
+    .container {
+        max-width: 1350px;
+    }
+}
+
+@media all and (min-width: 1707px) and (max-width: 1821px) {
+    .container {
+        max-width: 1500px;
+    }
+}
+
+@media all and (min-width: 1366px) and (max-width: 2049px) {
+}
+
+@media all and (min-width: 1822px) and (max-width: 2050px) {
+    .container {
+        max-width: 1770px;
+    }
+}
+
+@media all and (min-width: 2050px) and (max-width: 4090px) {
+    .container {
+        max-width: 2344px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 22px;
+    }
+}
+
+@media all and (min-width: 4098px) and (max-width: 5200px) {
+    .container {
+        max-width: 3344px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 22px;
+    }
+}
+
+@media all and (max-width: 766px) {
+    .p-size-title {
+        font-size: 25px;
+    }
+    .counter-bg {
+        position: static !important;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .circles-counter,
+    .pyramids-counter,
+    .moanain,
+    .lines {
+        display: none;
+    }
+
+    .about-secion {
+        overflow: hidden;
+    }
+
+    .addmission-secion {
+        min-height: 30vh;
+    }
+
+    /* nav start */
+
+    .navbar-nav {
+        padding-right: 0px;
+    }
+    .nav-item {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    /* nav end */
+
+    .logo-icon {
+        position: absolute;
+        bottom: 1rem;
+        left: 1rem;
+        width: 60px;
+    }
+
+    .service-item {
+        height: auto;
+    }
+
+    .pyramid {
+        position: absolute;
+        top: 1rem;
+        left: 0rem;
+        width: 6rem;
+    }
+
+    .circles-service {
+        position: absolute;
+        bottom: 6rem;
+        right: -6rem;
+        z-index: 1;
+    }
+
+    .admission2-secion {
+        height: auto;
+        margin-top: 10px;
+        /* margin-bottom: 10px; */
+    }
+
+    .join-text {
+        padding-right: 27px;
+        border-bottom-left-radius: 13rem;
+        width: 98% !important;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .join-text .w-75 {
+        width: 95% !important;
+    }
+
+    .p-size-subtitle {
+        font-size: 25px;
+    }
+
+    .bg-one {
+        border-bottom-left-radius: 13rem;
+    }
+
+    .blog-image {
+        height: auto !important;
+    }
+
+    .form-image {
+        display: none !important;
+    }
+    .contact-form {
+        margin-right: 0px !important;
+    }
+
+    .circliesform {
+        display: none;
+    }
+    .piont-footer {
+        width: 50px;
+        left: 1rem;
+        bottom: 18px;
+    }
+
+    .upperfooter-section .p-text-w {
+        font-size: 26px;
+    }
+    .upperfooter-section {
+        background-size: cover;
+    }
+
+    .star-footer {
+        right: 1rem;
+        top: 6px;
+        width: 47px;
+    }
+    .footer-data {
+        justify-content: start !important;
+        margin-top: 10px;
+    }
+
+    .footer-social {
+        align-items: end !important;
+    }
+
+    .footer-contact {
+        padding-right: 10px;
+    }
+
+    .social {
+        padding-top: 10px;
+    }
+
+    .logo-name {
+        font-size: 16px;
+    }
+    .footer a {
+        font-size: 13px;
+    }
+
+    .footer .justify-content-between {
+        justify-content: start !important;
+    }
+
+    .pyramids-egypt {
+        position: absolute;
+        top: 0rem;
+        right: 0rem;
+        width: 4rem;
+    }
+
+    .logopar {
+        position: absolute;
+        top: 0rem;
+        left: -1rem;
+        width: 4rem;
+    }
+
+    .partner-section {
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+
+    .partneres {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .footer-about {
+        font-size: 13px;
+    }
+
+    .page-header {
+        padding-top: 15px;
+    }
+
+    .preloader .moanain {
+        display: block;
+    }
+}
+
+@media all and (min-width: 767px) and (max-width: 1023px) {
+    .hero-secion {
+        min-height: 45vh;
+    }
+
+    .pyramid {
+        position: absolute;
+        top: 1rem;
+        left: 0rem;
+        width: 6rem;
+    }
+    .circles-service {
+        position: absolute;
+        bottom: 6rem;
+        right: -6rem;
+        z-index: 1;
+    }
+
+    .admission2-secion {
+        height: auto !important;
+        background-size: cover !important;
+    }
+
+    .join-text {
+        width: 95%;
+
+        padding-right: 66px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .footer-about {
+        font-size: 16px;
+    }
+    .page-header {
+        padding-top: 15px;
+    }
+
+    .blogimage {
+        height: auto;
+        max-height: max-content;
+    }
+
+    .preloader .moanain {
+        display: block;
+    }
+}
+
+@media all and (min-width: 767px) and (max-width: 821px) {
+    .admission2-secion {
+        height: auto !important;
+        background-size: cover !important;
+    }
+
+    .join-text {
+        width: 95%;
+
+        padding-right: 66px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .page-header {
+        padding-top: 15px;
+    }
+
+    .blogimage {
+        height: auto;
+        max-height: max-content;
+    }
+
+    .preloader .moanain {
+        display: block;
+    }
+}
+
+@media all and (max-width: 1024px) {
+}
+/*  */
+@media (width < 1600px) {
+    .service-item .trip-price {
+        height: fit-content;
+        max-height: 70px;
+        font-size: 23px;
+        line-height: 23px;
+    }
+}
+@media (width < 1400px) {
+    .hero-secion .row {
+        flex-direction: column;
+    }
+    .counter-bg {
+        top: -60px;
+    }
+}
+@media (width < 1200px) {
+    .partner-section .row.justify-content-center > div {
+        width: 100% !important;
+    }
+    .service-item .trip-price {
+        display: none;
+    }
+    .layer .text-yellow {
+        font-size: 20px;
+    }
+}
+@media (width < 1024px) {
+    .admission2-secion .col-lg-8.col-md-11.col-12 {
+        width: 100% !important;
+    }
+    .admission2-secion .join-text {
+        border-radius: 0;
+        width: 100% !important;
+    }
+}
+@media (width < 1000px) {
+    .counter-bg .col-lg-3 {
+        width: 50%;
+    }
+}
+@media (width < 768px) {
+    p.comment-body {
+        width: 100%;
+    }
+    .service-item .trip-price {
+        display: block;
+    }
+}
+@media (width < 600px) {
+    .about-secion .main-image .position-absolute.start-0.bottom-0 {
+        display: none;
+    }
+}
+@media (width < 550px) {
+    .partnerSlider {
+        flex-direction: column;
+        align-items: center;
+    }
+    .comments-globe {
+        width: 100%;
+    }
+    .person-image {
+        width: 25px;
+        height: 25px;
+    }
+    .person-image.active {
+        width: 30px;
+        height: 30px;
+    }
+    .person-image:nth-child(1) {
+        top: 25%;
+        left: 18%;
+    }
+    .person-image:nth-child(2) {
+        top: 35%;
+        left: 57%;
+    }
+    .person-image:nth-child(3) {
+        top: 35%;
+        left: 50%;
+    }
+    .person-image:nth-child(4) {
+        top: 42%;
+        left: 41%;
+    }
+    .person-image:nth-child(5) {
+        top: 52%;
+        left: 28%;
+    }
+    .person-image:nth-child(6) {
+        top: 23%;
+        left: 43%;
+    }
+    .person-image:nth-child(7) {
+        top: 23%;
+        left: 64%;
+    }
+    .person-image:nth-child(8) {
+        top: 61%;
+        left: 69%;
+    }
+}
+@media (width < 470px) {
+    .counter-bg .col-lg-3 {
+        width: 100%;
+    }
+}
+@media (width < 400px) {
+    .hero-secion .row img {
+        width: 100%;
+    }
+}
+
+/*  */
